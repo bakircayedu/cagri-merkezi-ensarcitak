@@ -1,0 +1,10 @@
+C:\Users\ensar\source\repos\cagrimerkezi\bin\Debug\cagrimerkezi.exe.config
+C:\Users\ensar\source\repos\cagrimerkezi\bin\Debug\cagrimerkezi.exe
+C:\Users\ensar\source\repos\cagrimerkezi\bin\Debug\cagrimerkezi.pdb
+C:\Users\ensar\source\repos\cagrimerkezi\obj\Debug\cagrimerkezi.csproj.AssemblyReference.cache
+C:\Users\ensar\source\repos\cagrimerkezi\obj\Debug\cagrimerkezi.Form1.resources
+C:\Users\ensar\source\repos\cagrimerkezi\obj\Debug\cagrimerkezi.Properties.Resources.resources
+C:\Users\ensar\source\repos\cagrimerkezi\obj\Debug\cagrimerkezi.csproj.GenerateResource.cache
+C:\Users\ensar\source\repos\cagrimerkezi\obj\Debug\cagrimerkezi.csproj.CoreCompileInputs.cache
+C:\Users\ensar\source\repos\cagrimerkezi\obj\Debug\cagrimerkezi.exe
+C:\Users\ensar\source\repos\cagrimerkezi\obj\Debug\cagrimerkezi.pdb
